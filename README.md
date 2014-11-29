@@ -6,4 +6,6 @@ Sample01- Java code to schedule threads - Schedue a thread such that thread t1,t
 
 Sample02- Java Threading code to calculate Even Odd  
 
+Sample03 - Java threading example to explain thread join()
+
 Live Example http://ideone.com/ER4eVA
